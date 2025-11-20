@@ -1,0 +1,16 @@
+,iteration,sender,receiver,message
+0,0,Agent_0,Agent_1,Could you try arm 1 first and share the reward?
+1,0,Agent_1,Agent_4,I have arms 1 and 2. I plan to pull arm 2 first to start gathering data. Maybe you can do the same with one of your arms to maximize our initial exploration.
+2,0,Agent_2,Agent_1,I plan to explore arm 8 first. Let's each focus on one arm per round to gather data.
+3,0,Agent_3,Agent_0,Let's try our assigned arms this round and share our rewards to help the team.
+4,0,Agent_4,Agent_1,Let's all try the lower-numbered arm in our assignments first to gather initial data.
+5,1,Agent_0,Agent_4,I pulled arm 4 last round and got 0.4417 reward.
+6,1,Agent_1,Agent_2,I tried arm 1 and got 0.4560 reward in the previous round.
+7,1,Agent_2,Agent_1,I tried arm 8 and got 0.4417 reward.
+8,1,Agent_3,Agent_4,I pulled arm 5 in Round 0 and got a reward of 0.3692.
+9,1,Agent_4,Agent_0,Arm 6 gave a reward of 0.6506 in Round 0.
+10,2,Agent_0,Agent_2,Arm 0 gave me 0.5464 in Round 1.
+11,2,Agent_1,Agent_3,I tried arm 1 and got 0.4560 reward.'
+12,2,Agent_2,Agent_1,I tried arm 8 in Round 0 and got 0.4417 reward.
+13,2,Agent_3,Agent_4,I pulled arm 5 twice and got rewards 0.3692 and 0.4195.
+14,2,Agent_4,Agent_0,Arm 4 gave me 0.3943 in round 1.
