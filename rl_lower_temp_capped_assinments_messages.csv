@@ -1,0 +1,601 @@
+,iteration,sender,receiver,message
+0,0,Agent_0,Agent_13,Try arm 49 first.
+1,0,Agent_1,Agent_27,Avoid arm 2; focus on higher arms like 28 or 42.
+2,0,Agent_2,Agent_11,Pull arm 29. It's your highest option.
+3,0,Agent_3,Agent_11,Consider unassigned arms to maximize diversity.
+4,0,Agent_4,Agent_13,Try 49
+5,0,Agent_5,Agent_11,Focus on arm 29 next round.
+6,0,Agent_6,Agent_25,"Prioritize arm 45, report reward."
+7,0,Agent_7,Agent_15,Try arm 43
+8,0,Agent_8,Agent_13,Pull 49 first.
+9,0,Agent_9,Agent_11,Start with 29.
+10,0,Agent_10,Agent_25,Focus on arm 45.
+11,0,Agent_11,Agent_28,"My arms: 5,9,19,26,29'"
+12,0,Agent_12,Agent_11,Avoid duplicate arms.
+13,0,Agent_13,Agent_15,Try arm 50 next round.
+14,0,Agent_14,Agent_12,Focus on arm 39.
+15,0,Agent_15,Agent_4,Try arm 50 next round.
+16,0,Agent_16,Agent_8,pull 46
+17,0,Agent_17,Agent_13,Let’s compare 47 and 49 next round.
+18,0,Agent_18,Agent_11,"Drop 5,9 to focus on higher arms."
+19,0,Agent_19,Agent_11,Focus on one arm this round for better data.
+20,0,Agent_20,Agent_13,Explore arm 49.
+21,0,Agent_21,Agent_0,Share your reward for arm 32 next round.
+22,0,Agent_22,Agent_14,Reward for arm 22?
+23,0,Agent_23,Agent_13,My arm is 37. Any info on nearby arms?
+24,0,Agent_24,Agent_11,Focus on arms in the 40-50 range for potential high rewards.
+25,0,Agent_25,Agent_24,"Coordinate on arms 43-45, you take 44, I'll take 43/45."
+26,0,Agent_26,Agent_29,Collaborate on arms 6 and 7 for higher rewards.
+27,0,Agent_27,Agent_11,"Explore arm 80 next, unassigned."
+28,0,Agent_28,Agent_11,"Let's coordinate. My arms: 3, 30."
+29,0,Agent_29,Agent_0,Note rewards of arms others choose; may inform future picks
+30,1,Agent_0,Agent_28,Pull arm 31.
+31,1,Agent_1,Agent_9,Arm 21: 41.29
+32,1,Agent_2,Agent_12,16 is good
+33,1,Agent_3,Agent_16,Arm 25 has low reward.
+34,1,Agent_4,Agent_17,Arm 10 reward: 26.12
+35,1,Agent_5,Agent_28,Arm 31 rewarded 22.04 in R0
+36,1,Agent_6,Agent_12,Arm 14 gave 8.46 in Round 0.
+37,1,Agent_7,Agent_16,Arm 20 reward: 22.05
+38,1,Agent_8,Agent_13,Arm 46 gave 81.82 last round.
+39,1,Agent_9,Agent_12,Arm 41: 40.68'
+40,1,Agent_10,Agent_11,"Arm 33 reward was 1.29, try 39 or 3"
+41,1,Agent_11,Agent_15,Arm 29 gave 5.38 in Round 0
+42,1,Agent_12,Agent_11,Arm 39 yields high reward (82.39).
+43,1,Agent_13,Agent_24,Arm 49 gave 76.98
+44,1,Agent_14,Agent_11,Try arm 3 instead of 39
+45,1,Agent_15,Agent_0,Arm 1 has high reward (74.47)
+46,1,Agent_16,Agent_12,Arm 15 reward: 8.33
+47,1,Agent_17,Agent_23,Arm 47 reward: 30.69
+48,1,Agent_18,Agent_19,Arm 36 rewarded 92.12 last round.
+49,1,Agent_19,Agent_20,arm 48 gave 68.58'
+50,1,Agent_20,Agent_12,Highest reward in your arms?
+51,1,Agent_21,Agent_17,Arm 27 gave 59.22 in Round 0.
+52,1,Agent_22,Agent_20,Pull arm 48.
+53,1,Agent_23,Agent_19,Arm 37 gave 75.91.
+54,1,Agent_24,Agent_8,Arm 44 gave 37.76
+55,1,Agent_25,Agent_27,Arm45: 12.7 in R0
+56,1,Agent_26,Agent_10,Arm 6: 45.65
+57,1,Agent_27,Agent_26,Arm 42 gave 35.59 last round.
+58,1,Agent_28,Agent_27,Arm 30 gave 64 in Round 0
+59,1,Agent_29,Agent_22,"Arm 7 good, try 8"
+60,2,Agent_0,Agent_29,Arm 9 gave me 33.29 in round 1.
+61,2,Agent_1,Agent_10,Arm 22: 45.57
+62,2,Agent_2,Agent_18,Arm 16: 85.96
+63,2,Agent_3,Agent_9,24 is high.
+64,2,Agent_4,Agent_14,Arm 10 gave me 26.12 in round 0. Your thoughts?
+65,2,Agent_5,Agent_15,Arm 1 gave 78.24 in round 1
+66,2,Agent_6,Agent_14,Arm 32 is high (72.75)
+67,2,Agent_7,Agent_21,Arm 20 gave 22.05
+68,2,Agent_8,Agent_9,Arm 46 gives high reward (81.82)
+69,2,Agent_9,Agent_13,Pull arm 49
+70,2,Agent_10,Agent_0,Arm 6 gave 58.91 in Round 1.
+71,2,Agent_11,Agent_20,Arm 39 gives high reward (86.00)
+72,2,Agent_12,Agent_20,Arm 39 gave 82.39 last round.
+73,2,Agent_13,Agent_9,Arm 46 reward was 78.50
+74,2,Agent_14,Agent_10,Arm 22 gave 62.15 in Round 0.
+75,2,Agent_15,Agent_6,Arm 29 had low reward. Consider avoiding.
+76,2,Agent_16,Agent_9,"Focus on arms 46, 42."
+77,2,Agent_17,Agent_23,27: 55.70
+78,2,Agent_18,Agent_3,Arm 25 is low (5.00)
+79,2,Agent_19,Agent_18,36:88.52
+80,2,Agent_20,Agent_14,Arm 48 gave 54.14 last round.
+81,2,Agent_21,Agent_23,Arm 27 gave 59.22 last round
+82,2,Agent_22,Agent_18,Arm 8 has high reward (69.39)
+83,2,Agent_23,Agent_10,Arm 37 was good (75.91)
+84,2,Agent_24,Agent_13,Arm 49 gave me 76.12 last round.
+85,2,Agent_25,Agent_15,Arm 2 gave 66.55 in Round 1
+86,2,Agent_26,Agent_9,Arm 42 gave 41.00 in round 1
+87,2,Agent_27,Agent_9,Arm 42 reward: 35.59
+88,2,Agent_28,Agent_15,Arm 30 rewards highly
+89,2,Agent_29,Agent_16,Arm 11 low (7.34)
+90,3,Agent_0,Agent_22,32:78.22
+91,3,Agent_1,Agent_28,Arm 28=61.95
+92,3,Agent_2,Agent_9,Arm 16 (85.96) is nearby
+93,3,Agent_3,Agent_26,"Arm 25 is bad, reward 0 last two times."
+94,3,Agent_4,Agent_12,Arm 10 gave me 26.12 in Round 0.
+95,3,Agent_5,Agent_3,Arm 5: 92.04 in R2
+96,3,Agent_6,Agent_4,"Avoid arm 29, gave 12.45 last round"
+97,3,Agent_7,Agent_18,Arm 41 reward was 53.79
+98,3,Agent_8,Agent_27,Arm 44 reward decreasing
+99,3,Agent_9,Agent_10,Arm 46 rewarded 77.26
+100,3,Agent_10,Agent_21,Avoid Arm 33'
+101,3,Agent_11,Agent_4,Pull 45
+102,3,Agent_12,Agent_20,Arm 39 gave 82.39
+103,3,Agent_13,Agent_10,Arm 46 reward was 78.50
+104,3,Agent_14,Agent_13,Arm 49 similar to 48 (56.32)
+105,3,Agent_15,Agent_4,Arm 29 low reward
+106,3,Agent_16,Agent_21,"Arm 20 gave me 9.81, maybe try another arm."
+107,3,Agent_17,Agent_28,Arm 18 had high reward (93.87).
+108,3,Agent_18,Agent_28,Arm 41 is untested; could be good like 42.
+109,3,Agent_19,Agent_10,Pull arm 36
+110,3,Agent_20,Agent_25,11 gave 16.28
+111,3,Agent_21,Agent_28,Arm 27: 59.22
+112,3,Agent_22,Agent_23,Arm 23: 70.85
+113,3,Agent_23,Agent_0,Arm 37 gave me 75.91 in Round 0.
+114,3,Agent_24,Agent_13,Arm 49 is good
+115,3,Agent_25,Agent_19,Arm 2 is good (66.55)
+116,3,Agent_26,Agent_4,Arm 6 gave me 45.65 in round 0.'
+117,3,Agent_27,Agent_24,30 high.
+118,3,Agent_28,Agent_24,Arm 31: 25.28
+119,3,Agent_29,Agent_7,Pull 34 instead of 7.'
+120,4,Agent_0,Agent_10,"Try arm 32, got 78.22 last time."
+121,4,Agent_1,Agent_15,Arm 28 gave me 61.95 in Round 2.
+122,4,Agent_2,Agent_12,Arm 48 gave me 66.81
+123,4,Agent_3,Agent_18,Arm 5 = 100
+124,4,Agent_4,Agent_26,"Try arm 17, high reward."
+125,4,Agent_5,Agent_18,Arm 5: 92.04
+126,4,Agent_6,Agent_14,Arm 32 gave me high reward.
+127,4,Agent_7,Agent_20,Arm 41 is good.
+128,4,Agent_8,Agent_24,8: 69.05
+129,4,Agent_9,Agent_2,Arm 46 gave 77.26
+130,4,Agent_10,Agent_28,Arms 6 (58.91) and 37 (74.71) are good.
+131,4,Agent_11,Agent_23,Arm 39 has given high reward.
+132,4,Agent_12,Agent_14,Arm 32 gave 67.55
+133,4,Agent_13,Agent_24,Arm 49 is high (83.23).
+134,4,Agent_14,Agent_28,Arm 12 gave 78.02
+135,4,Agent_15,Agent_14,Arm 1 yields ~75.
+136,4,Agent_16,Agent_23,Arm 47 is good.
+137,4,Agent_17,Agent_16,Arm 18 was great (93.87)
+138,4,Agent_18,Agent_28,Arm 36 is good (92-97)
+139,4,Agent_19,Agent_18,Arm 36 is good.
+140,4,Agent_20,Agent_23,Arm 39 good (82.18).
+141,4,Agent_21,Agent_15,"Arm 27 gave 59.22, try 28."
+142,4,Agent_22,Agent_14,Arm 32 is good (79.62).
+143,4,Agent_23,Agent_20,Arm 47 gave me 30.93; 41 might be similar.
+144,4,Agent_24,Agent_29,Arm 15 has low reward.
+145,4,Agent_25,Agent_18,Arm 2: 66.55
+146,4,Agent_26,Agent_28,Arm 6: 45.65
+147,4,Agent_27,Agent_18,Arm 42 gave me 35.59
+148,4,Agent_28,Agent_13,30:64.00
+149,4,Agent_29,Agent_24,Arm 7 is good.
+150,5,Agent_0,Agent_21,Arm 37 gave 71.44 in round 3.
+151,5,Agent_1,Agent_11,"Arm 16 is good, try it"
+152,5,Agent_2,Agent_11,Arm 16 reward: 85.96
+153,5,Agent_3,Agent_29,Arm 25=0
+154,5,Agent_4,Agent_0,"Try arm 17, high reward"
+155,5,Agent_5,Agent_9,"Arm 1 has high reward, consider pulling it."
+156,5,Agent_6,Agent_11,Arm 32: 72.75
+157,5,Agent_7,Agent_9,"Arm 41 is good, high reward."
+158,5,Agent_8,Agent_9,"Arm 44 has avg reward ~42, try others."
+159,5,Agent_9,Agent_10,Arm 46 gave me 77.26.
+160,5,Agent_10,Agent_19,Arm 33 is bad
+161,5,Agent_11,Agent_25,Arm 39 gave 86.00.
+162,5,Agent_12,Agent_21,Arm 48: 58.07. Your 47?
+163,5,Agent_13,Agent_28,Try arm 2
+164,5,Agent_14,Agent_11,Arm 32 is promising.
+165,5,Agent_15,Agent_9,Arm 1 avg 75.32
+166,5,Agent_16,Agent_15,18 is good (84.22)
+167,5,Agent_17,Agent_15,"Arm 18 gave me 93.87, try it!"
+168,5,Agent_18,Agent_29,Arm 25 has low reward.
+169,5,Agent_19,Agent_7,Arm 31: 19.07
+170,5,Agent_20,Agent_12,Arm 48 has high rewards.
+171,5,Agent_21,Agent_9,Arm 43 gave 90.62 in Round 4.
+172,5,Agent_22,Agent_7,Arm 31 gives 19.58
+173,5,Agent_23,Agent_21,37 is good (75.91)
+174,5,Agent_24,Agent_9,Arm 44 is good (37.76)
+175,5,Agent_25,Agent_28,Arms 2 and 30 are good.
+176,5,Agent_26,Agent_29,"Arm 25 gave me 0, avoid if possible."
+177,5,Agent_27,Agent_28,Arm 30 has high reward
+178,5,Agent_28,Agent_21,Arm 37: 75.63
+179,5,Agent_29,Agent_15,Arm 35 low reward (3.88)
+180,6,Agent_0,Agent_20,Arm 37: 71.44
+181,6,Agent_1,Agent_22,16 is good (84.09).
+182,6,Agent_2,Agent_20,Arm 48 gave me 66.81. Good!
+183,6,Agent_3,Agent_13,arm 25 gave me 0 twice
+184,6,Agent_4,Agent_23,Arm 29 gave me low reward (7.68). Avoid it.
+185,6,Agent_5,Agent_3,Arm 5 high reward (92.04)
+186,6,Agent_6,Agent_24,"Arm 32 gave 72.75, focus on it."
+187,6,Agent_7,Agent_18,Arm 41: 53.79
+188,6,Agent_8,Agent_0,"Arm 26 is high, 95.10 in round 4"
+189,6,Agent_9,Agent_21,"Arm 43 gave me 98.12, consider pulling it."
+190,6,Agent_10,Agent_3,Try arm 46
+191,6,Agent_11,Agent_26,Arm 16 has high rewards recently.
+192,6,Agent_12,Agent_20,"Arm 39 gave me 82.39, high reward."
+193,6,Agent_13,Agent_19,Arm 46 gave me 78.50 last time.
+194,6,Agent_14,Agent_24,Arm 32: 80.10
+195,6,Agent_15,Agent_26,Arm 18 gave 96.88 last round.'
+196,6,Agent_16,Agent_26,"Arm 18 gave me 84.22, pull it"
+197,6,Agent_17,Agent_26,18=93.87
+198,6,Agent_18,Agent_13,"Arm 25 gave me 5.00, might be low."
+199,6,Agent_19,Agent_13,Arm 31 gave me 19.07.
+200,6,Agent_20,Agent_21,Arm 10 low (20.79)
+201,6,Agent_21,Agent_23,Arm 27 gave me 59.22 in round 0.
+202,6,Agent_22,Agent_24,Arm 32 is good
+203,6,Agent_23,Agent_20,"Arms 37,39 good (75.91,74.17)"
+204,6,Agent_24,Agent_17,Arm 15 low reward
+205,6,Agent_25,Agent_15,Avoid 45.
+206,6,Agent_26,Agent_13,"Try arm 6, got 45.65."
+207,6,Agent_27,Agent_20,"Pull arm 30, high reward last time."
+208,6,Agent_28,Agent_20,Arm 37 is good
+209,6,Agent_29,Agent_11,Arm 7 is high reward.
+210,7,Agent_0,Agent_12,Arm 32 gave 78.22
+211,7,Agent_1,Agent_18,Arm 6 good
+212,7,Agent_2,Agent_9,"Arm 16 gave me 85.96, good option."
+213,7,Agent_3,Agent_14,Arm 25 is bad. Avoid it.
+214,7,Agent_4,Agent_18,"Arm 17 good (88.75, 95.58)"
+215,7,Agent_5,Agent_21,"Pull arm 1, high reward"
+216,7,Agent_6,Agent_12,Arm 32 reward 72.75
+217,7,Agent_7,Agent_27,"Try arm 26, high past reward"
+218,7,Agent_8,Agent_14,Try arm 3.
+219,7,Agent_9,Agent_21,Pull arm 43
+220,7,Agent_10,Agent_19,Try 100
+221,7,Agent_11,Agent_16,Arm 29 gave me 5.38.'
+222,7,Agent_12,Agent_27,"Arm 33 gave me 0 last round, avoid it."
+223,7,Agent_13,Agent_12,Try arm 48.
+224,7,Agent_14,Agent_12,Arm 32 rewards well (80.10)
+225,7,Agent_15,Agent_19,Arm 1 consistently high rewards (74-80)
+226,7,Agent_16,Agent_17,Arm 19 gave 38.59 in round 5.
+227,7,Agent_17,Agent_21,Arm 35 has low reward (4.43)
+228,7,Agent_18,Agent_14,"Avoid arm 25, low reward."
+229,7,Agent_19,Agent_18,"Stick with Arm 36, high reward history."
+230,7,Agent_20,Agent_17,Arm 10 gave me 20.79. Avoid.
+231,7,Agent_21,Agent_10,Arm 37 gave ~68.18 in round 5.
+232,7,Agent_22,Agent_27,"Focus on arm 8, good reward."
+233,7,Agent_23,Agent_10,Arm 37 gave me 75.91 in round 0.
+234,7,Agent_24,Agent_12,"Arm 32 has high rewards, consider pulling it again."
+235,7,Agent_25,Agent_20,Arm 39: high reward (80.34)
+236,7,Agent_26,Agent_14,"Arm 25 is bad, reward 0."
+237,7,Agent_27,Agent_18,Arm 17 gave me 85.58 in Round 6.
+238,7,Agent_28,Agent_10,Pull 37
+239,7,Agent_29,Agent_28,Arm 7 is consistently high.
+240,8,Agent_0,Agent_23,Arm 32: 78.22
+241,8,Agent_1,Agent_24,Arm 21 ~38.86 avg
+242,8,Agent_2,Agent_18,Arm 42 better than 14 (45.15 vs 15.36)
+243,8,Agent_3,Agent_6,Arm 25 gave me 0 twice. Avoid next round.
+244,8,Agent_4,Agent_16,"Pull arm 17 for high rewards (88.75, 95.58)."
+245,8,Agent_5,Agent_21,Arm 2 gave high reward (92.04) in Round 2
+246,8,Agent_6,Agent_23,Arm 32 good (72.75).
+247,8,Agent_7,Agent_18,"Avoid arm 14, low reward (6.52 in round 4)"
+248,8,Agent_8,Agent_22,"Try arm 26, it gave 95.10 last time."
+249,8,Agent_9,Agent_21,Arm 43 is good
+250,8,Agent_10,Agent_3,Arm 46 has high rewards
+251,8,Agent_11,Agent_28,Arm 23 is good
+252,8,Agent_12,Agent_3,"Try arm 32, high rewards."
+253,8,Agent_13,Agent_14,Pull arm 45
+254,8,Agent_14,Agent_23,Arm 32 is good (80.10).
+255,8,Agent_15,Agent_17,Arm 18: 96.88.
+256,8,Agent_16,Agent_17,Arm 18 gave 100 last round.
+257,8,Agent_17,Agent_22,"Avoid arm 35, low reward"
+258,8,Agent_18,Agent_20,Arm 36 is good.
+259,8,Agent_19,Agent_22,"Avoid arm 31, low reward"
+260,8,Agent_20,Agent_19,Arm 48 gave 54.14
+261,8,Agent_21,Agent_18,Arm 37 gave me 68.18 in round 5.
+262,8,Agent_22,Agent_14,Try arm 45
+263,8,Agent_23,Agent_18,37 rewarded me 75.91
+264,8,Agent_24,Agent_23,Pull arm 32'
+265,8,Agent_25,Agent_20,Arm 39 gave 80.34
+266,8,Agent_26,Agent_1,Arm 26 is good (87.09)
+267,8,Agent_27,Agent_22,Arm 30 is good.
+268,8,Agent_28,Agent_18,Arm 37: 75.63
+269,8,Agent_29,Agent_14,Arm 7 is good (avg ~52)
+270,9,Agent_0,Agent_28,Arm 28 gave 70.55
+271,9,Agent_1,Agent_26,"Pull arm 26, max reward."
+272,9,Agent_2,Agent_5,46 is good.
+273,9,Agent_3,Agent_14,Arm 24 is good (66.29)
+274,9,Agent_4,Agent_24,"Arm 29 reward was low (7.68), consider switching."
+275,9,Agent_5,Agent_18,Arm 45 gave low reward (7.50).
+276,9,Agent_6,Agent_26,"Arm 26 gave 93.62, pull it again!"
+277,9,Agent_7,Agent_27,Arm 14 gave low reward (6.52). Consider switching.
+278,9,Agent_8,Agent_26,Arm 26 was 95.10!
+279,9,Agent_9,Agent_12,Arm 11 reward: 6.80
+280,9,Agent_10,Agent_2,Arm 46 consistently gives high rewards.
+281,9,Agent_11,Agent_17,Arm 16 consistently high (78-84). Your data?
+282,9,Agent_12,Agent_26,"Avoid arm 33, gave 0 last time."
+283,9,Agent_13,Agent_1,Arm 38 reward is low.
+284,9,Agent_14,Agent_5,Arm 45 is low.
+285,9,Agent_15,Agent_17,Arm 18 is good
+286,9,Agent_16,Agent_17,Arm 18 gives 100!
+287,9,Agent_17,Agent_13,"Arm 35 gave 4.43, avoid."
+288,9,Agent_18,Agent_10,"Try arm 5, reward was 100.00."
+289,9,Agent_19,Agent_18,Arm 36 gives high reward.
+290,9,Agent_20,Agent_17,Arm 41 reward was 41.28
+291,9,Agent_21,Agent_0,37 ~68
+292,9,Agent_22,Agent_12,"Arm 11 low (3.92, 11.58)"
+293,9,Agent_23,Agent_12,Arm 32 is good.
+294,9,Agent_24,Agent_13,Arm 49: high reward (85.50).
+295,9,Agent_25,Agent_20,Arm 39 is good
+296,9,Agent_26,Agent_17,Arm 18 is very good (90.07).
+297,9,Agent_27,Agent_26,"Avoid Arm 33, low reward"
+298,9,Agent_28,Agent_15,"Arm 23 is good, reward ~64.81"
+299,9,Agent_29,Agent_14,Pull arm 24
+300,10,Agent_0,Agent_7,Pull arm 23 again. Rewarded me with 68.21.
+301,10,Agent_1,Agent_25,Arm 26 is high reward.
+302,10,Agent_2,Agent_8,"Arm 46: 89.30, 81.86 last two rounds."
+303,10,Agent_3,Agent_15,"Arm 25 is bad, got 0 twice"
+304,10,Agent_4,Agent_18,Arm 17 gives high rewards.'
+305,10,Agent_5,Agent_20,"Avoid arm 45, low rewards."
+306,10,Agent_6,Agent_25,Arm 26 = 93.62
+307,10,Agent_7,Agent_25,Arm 26 was good for me (85.70).
+308,10,Agent_8,Agent_22,What's your reward for arm 44?
+309,10,Agent_9,Agent_23,Pull arm 41 instead of 0.
+310,10,Agent_10,Agent_8,Arm 46 is good.
+311,10,Agent_11,Agent_25,Arm 12: 78.63
+312,10,Agent_12,Agent_4,Arm 32 has consistently high rewards.
+313,10,Agent_13,Agent_23,Arm 0 bad (36.09)
+314,10,Agent_14,Agent_12,Arm 32 is good (~80)
+315,10,Agent_15,Agent_17,Arm 18 is good
+316,10,Agent_16,Agent_18,Arm 17 gave me 90.74
+317,10,Agent_17,Agent_14,Arm 35 gave me 4.43
+318,10,Agent_18,Agent_15,"Avoid arm 25, got 5.00"
+319,10,Agent_19,Agent_13,Arm 48 avg 61.42
+320,10,Agent_20,Agent_23,arm 39 is good
+321,10,Agent_21,Agent_27,"Avoid arm 20, low reward."
+322,10,Agent_22,Agent_11,"Pull arm 16, got 85.67 last time."
+323,10,Agent_23,Agent_10,Arm 37 reward 75.91
+324,10,Agent_24,Agent_23,Try arm 49.
+325,10,Agent_25,Agent_9,34 = 40.32
+326,10,Agent_26,Agent_15,"Avoid arm 25, got 0.00 in round 3"
+327,10,Agent_27,Agent_5,Arm 33 has low reward (4.72).
+328,10,Agent_28,Agent_15,Arm 28 gave 64.97 last round.
+329,10,Agent_29,Agent_15,"Arm 24 is great, reward 64.50"
+330,11,Agent_0,Agent_16,"Arm 23 gave me 68.21, high potential."
+331,11,Agent_1,Agent_20,Pull arm 26.
+332,11,Agent_2,Agent_17,Try arm 42 instead of 47.
+333,11,Agent_3,Agent_12,24 is good
+334,11,Agent_4,Agent_3,Arm 5 is high reward! Keep pulling it.
+335,11,Agent_5,Agent_12,Arm 33 is bad (2.71)
+336,11,Agent_6,Agent_20,Arm 26 is good.
+337,11,Agent_7,Agent_20,Arm 26 gave me 85.70.
+338,11,Agent_8,Agent_21,Arm 40 is low reward.
+339,11,Agent_9,Agent_3,Arm 5 gave 100 in round 9.
+340,11,Agent_10,Agent_15,"Pull arm 1, 78"
+341,11,Agent_11,Agent_20,Arm 39 is high
+342,11,Agent_12,Agent_20,Arm 39 is high (~82)
+343,11,Agent_13,Agent_27,Try arm 49
+344,11,Agent_14,Agent_2,Arm 45 has low reward (11.27).'
+345,11,Agent_15,Agent_0,"Arm 1 avg reward ~74, try it."
+346,11,Agent_16,Agent_17,Arm 18 is high reward!
+347,11,Agent_17,Agent_4,"Arm 17 has high rewards (89.54, 92.12)."
+348,11,Agent_18,Agent_23,Arm 7 gives ~47.80
+349,11,Agent_19,Agent_12,Arm 33: low reward
+350,11,Agent_20,Agent_29,Arm 48 gave 54.14
+351,11,Agent_21,Agent_23,Arm 27 gave me 59.22
+352,11,Agent_22,Agent_23,Arm 8 ~69.39
+353,11,Agent_23,Agent_20,"Pull arm 39, high reward."
+354,11,Agent_24,Agent_12,Arm 29 is low.
+355,11,Agent_25,Agent_20,Arm 26 is high
+356,11,Agent_26,Agent_16,Arm 25 reward: 0.00
+357,11,Agent_27,Agent_12,Avoid arm 33
+358,11,Agent_28,Agent_21,Arm 30 is good'
+359,11,Agent_29,Agent_12,Arm 24 high reward
+360,12,Agent_0,Agent_12,Arm 32 high ~78.
+361,12,Agent_1,Agent_26,Arm 14 reward was 5.26. Avoid.
+362,12,Agent_2,Agent_10,Try arm 28
+363,12,Agent_3,Agent_10,"Try arm 5, consistently high rewards."
+364,12,Agent_4,Agent_1,"Try arm 17, consistent high rewards."
+365,12,Agent_5,Agent_26,"Avoid arm 45, low rewards"
+366,12,Agent_6,Agent_7,"Pull 26, high reward!"
+367,12,Agent_7,Agent_27,Arm 23 gave me 68.80 last time
+368,12,Agent_8,Agent_7,"Arm 26 had high reward (95.10), prioritize it"
+369,12,Agent_9,Agent_26,Arm 5 gave high reward
+370,12,Agent_10,Agent_23,Arm 46 consistently ~80s
+371,12,Agent_11,Agent_10,"Try arm 16, it's consistently high"
+372,12,Agent_12,Agent_20,Arm 39 is great (82.39)!
+373,12,Agent_13,Agent_5,49 works well
+374,12,Agent_14,Agent_26,"Avoid arm 45, low reward."
+375,12,Agent_15,Agent_17,Arm 18 was good last time. Try it again.
+376,12,Agent_16,Agent_17,18 is high.
+377,12,Agent_17,Agent_22,Low reward on 35.
+378,12,Agent_18,Agent_9,"Arm 5 is great (92.86, 100.00).'"
+379,12,Agent_19,Agent_25,Arm 46 has high rewards.
+380,12,Agent_20,Agent_22,"Avoid arm 10 (20.79), use 48"
+381,12,Agent_21,Agent_10,Try arm 43.
+382,12,Agent_22,Agent_29,Arm 23 is good
+383,12,Agent_23,Agent_20,39 is good
+384,12,Agent_24,Agent_26,"Try arm 45, high reward potential."
+385,12,Agent_25,Agent_7,Pull arm 26
+386,12,Agent_26,Agent_17,Arm 18 is good (90.07)
+387,12,Agent_27,Agent_7,Arm 33 low. Try 17 or 12.'
+388,12,Agent_28,Agent_16,Arm 12 reward: 78.60
+389,12,Agent_29,Agent_28,Arm 38 is good
+390,13,Agent_0,Agent_1,Try arm 37 for higher rewards.
+391,13,Agent_1,Agent_29,Try arm 50 instead of 14. It might be better.
+392,13,Agent_2,Agent_19,Arm 46 is good.
+393,13,Agent_3,Agent_18,Arm 5 is great!
+394,13,Agent_4,Agent_18,"Arm 17 avg reward 93.73, pull it again"
+395,13,Agent_5,Agent_19,"Arm 46 gave me 88.55, consider pulling it again."
+396,13,Agent_6,Agent_1,Arm 32 has high rewards for me. Try it!
+397,13,Agent_7,Agent_0,Arm 37 gave me 70.
+398,13,Agent_8,Agent_19,Pull arm 46
+399,13,Agent_9,Agent_18,"Arm 5 has been good (100, 94.81)."
+400,13,Agent_10,Agent_19,Arm 46 avg ~83.7
+401,13,Agent_11,Agent_13,"Arm 16 avg ~80, recommend pulling."
+402,13,Agent_12,Agent_28,"Arm 0 is bad, avoid it."
+403,13,Agent_13,Agent_20,Pull arm 39
+404,13,Agent_14,Agent_22,"Try arm 3, high rewards"
+405,13,Agent_15,Agent_9,Arm 29 is low (~13.91)
+406,13,Agent_16,Agent_17,Arm 18 gave me 100.00 in round 7.
+407,13,Agent_17,Agent_24,Arm 18 ~90+. Pull if possible.
+408,13,Agent_18,Agent_23,"Arm 25 is low (5), avoid."
+409,13,Agent_19,Agent_17,"Arm 33 has low reward (~8.82), avoid if possible."
+410,13,Agent_20,Agent_9,"Avoid arm 11, focus on 29."
+411,13,Agent_21,Agent_27,Arm 43 often gives 100
+412,13,Agent_22,Agent_28,Arm 23 is good (70.85).
+413,13,Agent_23,Agent_20,"Arm 39 gave 74.17, pull it!"
+414,13,Agent_24,Agent_13,Arm 49 avg ~80.
+415,13,Agent_25,Agent_20,"Arm 39 is good (80.34, r5)"
+416,13,Agent_26,Agent_23,"Avoid arm 25, got 0 reward."
+417,13,Agent_27,Agent_18,Arm 17 is good
+418,13,Agent_28,Agent_25,Arm 28 is good (64.97)
+419,13,Agent_29,Agent_4,Arm 24 is good.'
+420,14,Agent_0,Agent_12,Arm 32 gave me 78.22. Keep pulling it!
+421,14,Agent_1,Agent_24,"Try arm 26, high reward."
+422,14,Agent_2,Agent_3,Try arm 46 for high reward!
+423,14,Agent_3,Agent_23,Arm 25 is bad. Avoid.
+424,14,Agent_4,Agent_12,Arm 17 consistently high reward.
+425,14,Agent_5,Agent_10,Arm 46 gave 88.55 in round 11.
+426,14,Agent_6,Agent_26,Arm 26: 93.62
+427,14,Agent_7,Agent_26,"Arm 26 is high reward, ~85"
+428,14,Agent_8,Agent_17,Try arm 7 instead of 40. Low reward before.
+429,14,Agent_9,Agent_3,Arm 5 is great.
+430,14,Agent_10,Agent_15,Arm 46 has consistent high rewards.
+431,14,Agent_11,Agent_20,Arm 39 gave 86.00
+432,14,Agent_12,Agent_7,"Try arm 32, high rewards (~70-80)"
+433,14,Agent_13,Agent_27,Arm 30 has low reward.
+434,14,Agent_14,Agent_28,Arm 45 low (~11)
+435,14,Agent_15,Agent_22,"Arm 28 gave me ~67.6, try arm 8."
+436,14,Agent_16,Agent_17,Arm 18 gave 100 before.
+437,14,Agent_17,Agent_23,Arm 27 gave me 55.70
+438,14,Agent_18,Agent_3,"Arm 5 is consistently good (rewards: 92.86, 100)"
+439,14,Agent_19,Agent_10,"Arm 46 is consistently high, keep pulling.'"
+440,14,Agent_20,Agent_1,"Try arm 39, consistent high rewards."
+441,14,Agent_21,Agent_23,"Arm 27 gave me 59.22, might be good."
+442,14,Agent_22,Agent_3,Avoid arm 11.
+443,14,Agent_23,Agent_20,Arm 39 rewards ~74.
+444,14,Agent_24,Agent_1,"Try arm 49, high rewards."
+445,14,Agent_25,Agent_26,Arm 26 is good (86.50)
+446,14,Agent_26,Agent_23,25 is bad
+447,14,Agent_27,Agent_19,"Avoid arm 33, it's bad."
+448,14,Agent_28,Agent_6,Arm 12 is good (78.60)
+449,14,Agent_29,Agent_11,Arm 24 gave me 64.50
+450,15,Agent_0,Agent_12,32 is great.
+451,15,Agent_1,Agent_26,"Arm 26 gave me 99.79, great reward!"
+452,15,Agent_2,Agent_10,"Arm 46 has been good (89.30, 81.86)."
+453,15,Agent_3,Agent_11,Arm 25 is bad'
+454,15,Agent_4,Agent_17,Arm 29 has low reward.
+455,15,Agent_5,Agent_20,"Arm 45 has low rewards (7.50, 15.03). Avoid."
+456,15,Agent_6,Agent_26,Arm 26 is great (93.62)
+457,15,Agent_7,Agent_13,"Arm 23 is good, reward ~68"
+458,15,Agent_8,Agent_14,Arm 3 consistently good.
+459,15,Agent_9,Agent_11,"Arm 5 gave 100 last time, consider pulling it."
+460,15,Agent_10,Agent_1,"Try arm 46, it's good."
+461,15,Agent_11,Agent_20,"Arm 39 has high rewards, try it."
+462,15,Agent_12,Agent_18,Arm 33 is bad (0)
+463,15,Agent_13,Agent_10,Arm 46 reward: 78.50
+464,15,Agent_14,Agent_11,"Arm 3 avg ~90, pull it if possible.'"
+465,15,Agent_15,Agent_17,Arm 1 consistently high (70-80).
+466,15,Agent_16,Agent_28,Try arm 5
+467,15,Agent_17,Agent_4,"Arm 17 is good, rewards ~90.'"
+468,15,Agent_18,Agent_11,"Try arm 36, high reward.'"
+469,15,Agent_19,Agent_18,Arm 33 is low reward.
+470,15,Agent_20,Agent_29,Arm 10 is low.
+471,15,Agent_21,Agent_27,"Try arm 44, it might be good."
+472,15,Agent_22,Agent_11,Arm 16 has high reward (~85.67).
+473,15,Agent_23,Agent_16,47 is low (30.93)
+474,15,Agent_24,Agent_13,Arm 49 has high rewards.
+475,15,Agent_25,Agent_26,Arm 26 reward 86.50
+476,15,Agent_26,Agent_11,"Skip arm 25, try arm 26 (~87 avg)."
+477,15,Agent_27,Agent_18,Arm 33 has very low reward (4.72)
+478,15,Agent_28,Agent_17,Arm 12: 78.60
+479,15,Agent_29,Agent_17,"Skip 29,35."
+480,16,Agent_0,Agent_10,"Arm 37 avg 76, consider it."
+481,16,Agent_1,Agent_27,Arm 26 has high reward potential (99.79).
+482,16,Agent_2,Agent_28,Arm 28 avg ~72
+483,16,Agent_3,Agent_27,Avoid arm 0; try arm 20
+484,16,Agent_4,Agent_8,Arm 29 gave me 7.68. Try another arm.
+485,16,Agent_5,Agent_25,arm 46 is good
+486,16,Agent_6,Agent_12,Arm 32 is high reward.
+487,16,Agent_7,Agent_26,Arm 26 is great.
+488,16,Agent_8,Agent_27,Arm 20 has low rewards (~18)
+489,16,Agent_9,Agent_21,Arm 43: 98.12
+490,16,Agent_10,Agent_27,"Arm 0 is low (~29), try 20."
+491,16,Agent_11,Agent_20,Arm 39 is good (86)
+492,16,Agent_12,Agent_13,"Focus on arm 49, high potential reward."
+493,16,Agent_13,Agent_28,Arm 30 gives ~63.31
+494,16,Agent_14,Agent_6,Arm 24 seems better than 45 based on my history.
+495,16,Agent_15,Agent_17,"Focus on arm 18, great reward potential."
+496,16,Agent_16,Agent_3,Arm 5 is high reward
+497,16,Agent_17,Agent_26,Arm 35 has low reward.
+498,16,Agent_18,Agent_3,Arm 5 has high rewards
+499,16,Agent_19,Agent_10,Arm 46 avg ~83.81'
+500,16,Agent_20,Agent_9,41.28 for arm 41.
+501,16,Agent_21,Agent_24,Arm 43 often gives 100!
+502,16,Agent_22,Agent_27,Try arm 50
+503,16,Agent_23,Agent_9,"Avoid arm 47, low reward (30.93)."
+504,16,Agent_24,Agent_13,49:80
+505,16,Agent_25,Agent_10,46: 86.66'
+506,16,Agent_26,Agent_17,Try arm 18 - got 90.07
+507,16,Agent_27,Agent_11,Arms 12 and 23 have high rewards.
+508,16,Agent_28,Agent_21,arm 42 gave us 46.49.
+509,16,Agent_29,Agent_6,"Arm 24 seems good, I got 64.50 last time."
+510,17,Agent_0,Agent_23,Arm 32 has high reward. Try it.
+511,17,Agent_1,Agent_26,Focus on arm 26 for high reward.
+512,17,Agent_2,Agent_14,"Pull arm 3, high reward (85.96)."
+513,17,Agent_3,Agent_27,arm 12 is good
+514,17,Agent_4,Agent_29,Arm 17 has high rewards.
+515,17,Agent_5,Agent_11,Avoid arm 45.
+516,17,Agent_6,Agent_1,Arm 25 is terrible (0 reward)'
+517,17,Agent_7,Agent_6,Arm 14 gave me 6.52.
+518,17,Agent_8,Agent_26,Pull arm 26.
+519,17,Agent_9,Agent_10,Arm 46: 77.26
+520,17,Agent_10,Agent_1,Arm 25 is bad (~4.31).
+521,17,Agent_11,Agent_26,"Arm 16 avg ~84, better than arm 7."
+522,17,Agent_12,Agent_10,Arm 33 = 0 reward.
+523,17,Agent_13,Agent_15,Arm 49 avg ~78
+524,17,Agent_14,Agent_12,Pull arm 32
+525,17,Agent_15,Agent_23,Try arm 18.
+526,17,Agent_16,Agent_15,Arm 18 is good
+527,17,Agent_17,Agent_25,Try arm 18 for high rewards.
+528,17,Agent_18,Agent_1,"Try arm 36, high rewards."
+529,17,Agent_19,Agent_8,Try arm 46'
+530,17,Agent_20,Agent_23,"Avoid arm 11, reward was low."
+531,17,Agent_21,Agent_0,try arm 41.
+532,17,Agent_22,Agent_11,"Arm 16 is high reward, prioritize."
+533,17,Agent_23,Agent_12,"Pull arm 32, good reward."
+534,17,Agent_24,Agent_13,Arm 44 ~39
+535,17,Agent_25,Agent_23,"Avoid arm 11, reward was 8.98"
+536,17,Agent_26,Agent_1,Arm 25 gave 0 reward.
+537,17,Agent_27,Agent_10,"Arm 33 had low reward for me, try 46 instead."
+538,17,Agent_28,Agent_2,Try arm 12 for high reward.
+539,17,Agent_29,Agent_23,"Arm 24: 64.5, Arm 29: low"
+540,18,Agent_0,Agent_18,Arm 37 is great!
+541,18,Agent_1,Agent_17,"Arm 25 gave me 0.00 last time, avoid it if possible."
+542,18,Agent_2,Agent_10,"Arm 46 gave 89.30, 81.86 last rounds."
+543,18,Agent_3,Agent_28,Arm 5 has high rewards consistently.
+544,18,Agent_4,Agent_22,"Arm 17 is good, got 100 twice."
+545,18,Agent_5,Agent_10,Arm 46 has high reward (88.55).
+546,18,Agent_6,Agent_17,"Avoid arm 25, low reward."
+547,18,Agent_7,Agent_26,Arm 26 is high reward (85+)
+548,18,Agent_8,Agent_10,"Arm 46 is great, arm 11 is bad. Any data?"
+549,18,Agent_9,Agent_21,Pull arm 43
+550,18,Agent_10,Agent_17,Try arm 46 instead of 25
+551,18,Agent_11,Agent_20,Arm 39 was very good for me (86.00 in round 1).
+552,18,Agent_12,Agent_10,"Try arm 40, unexplored."
+553,18,Agent_13,Agent_20,Arm 0 is low (36.09)
+554,18,Agent_14,Agent_12,"Pull arm 32, it gave me 80.10."
+555,18,Agent_15,Agent_17,Arm 18 is very good (~96.88)
+556,18,Agent_16,Agent_17,"Arm 18 has high reward potential, consider pulling it again."
+557,18,Agent_17,Agent_5,Arm 35 has low reward.
+558,18,Agent_18,Agent_22,Arm 17 ~90 reward'
+559,18,Agent_19,Agent_10,Pull arm 46 for high rewards.
+560,18,Agent_20,Agent_29,Try arm 2
+561,18,Agent_21,Agent_20,Try arm 43 for high rewards
+562,18,Agent_22,Agent_11,"Arm 8 has high rewards (69.39, 65.45)"
+563,18,Agent_23,Agent_11,"Arm 8 is good, ~70 reward"
+564,18,Agent_24,Agent_11,"Avoid arm 15, try 42."
+565,18,Agent_25,Agent_18,Arm 45 is low (12.70)
+566,18,Agent_26,Agent_11,Arm 26 is high (avg ~87).
+567,18,Agent_27,Agent_23,Arm 30 has consistently high rewards. Focus on it.
+568,18,Agent_28,Agent_8,Arm 12 gave me 78.60.
+569,18,Agent_29,Agent_22,Arm 17 is very good (90.73)
+570,19,Agent_0,Agent_17,"Arm 9 avg reward ~34, avoid if possible."
+571,19,Agent_1,Agent_11,"Arm 25 gave me 0, avoid"
+572,19,Agent_2,Agent_20,Arm 4 is consistently good (~30-40)
+573,19,Agent_3,Agent_19,"Arm 12 is great, pull it!"
+574,19,Agent_4,Agent_3,Arm 5 is high reward (96.89).
+575,19,Agent_5,Agent_10,"Pull arm 46, it gave me 88.55"
+576,19,Agent_6,Agent_25,Arm 2 is good
+577,19,Agent_7,Agent_26,"Arm 26 is ~85, high priority."
+578,19,Agent_8,Agent_10,Arm 46 is high.
+579,19,Agent_9,Agent_21,"Arm 43 gave 98.12, try it!"
+580,19,Agent_10,Agent_11,"Avoid arm 25, reward was very low"
+581,19,Agent_11,Agent_20,Arm 39: 86.00
+582,19,Agent_12,Agent_20,"Arm 39 is good, reward 82.39"
+583,19,Agent_13,Agent_10,Arm 46 is good (78.50)
+584,19,Agent_14,Agent_12,Arm 32 is good.
+585,19,Agent_15,Agent_17,Arm 29 is bad. Try arm 1.
+586,19,Agent_16,Agent_17,Arm 18 gave me 100.00
+587,19,Agent_17,Agent_23,"Arm 27 gave me 55.70, try it."
+588,19,Agent_18,Agent_11,"Avoid arm 25, low reward."
+589,19,Agent_19,Agent_18,Pull arm 36. Reward 88.52 in round 1.
+590,19,Agent_20,Agent_12,Arm 48 gave me 54.14 in Round 1.
+591,19,Agent_21,Agent_25,"Avoid arm 20, low reward."
+592,19,Agent_22,Agent_7,Arm 23 gave me 70.85.
+593,19,Agent_23,Agent_17,Arm 47 has low reward (30.93)'
+594,19,Agent_24,Agent_12,Arm 32 gave me 75.83 in round 6.
+595,19,Agent_25,Agent_2,Arm 11 is bad. Switch.
+596,19,Agent_26,Agent_17,Pull arm 18. High reward.
+597,19,Agent_27,Agent_19,Arm 12 has high rewards (~72).
+598,19,Agent_28,Agent_19,12 is good (78.60)
+599,19,Agent_29,Agent_12,"Arm 48 gave me 54.62, consider it."
